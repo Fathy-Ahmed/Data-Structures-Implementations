@@ -1,0 +1,61 @@
+##############################
+# Visual Studio C++ Projects #
+##############################
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+x64/
+x86/
+[Oo]bj/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Compiled files
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+
+# Logs and temp
+*.log
+*.tlog
+*.tmp
+
+# Visual Studio folders
+.vs/
+.vscode/
+
+# Others
+*.db
+*.ipch
+*.sbr
+
+##############################
+# Custom for your projects   #
+##############################
+
+# Ignore CMake (if ever generated)
+CMakeFiles/
+CMakeCache.txt
+
+# Ignore backups
+*~
