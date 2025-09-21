@@ -66,7 +66,7 @@ int value = array.get_value(7); // Returns 70
 
 The following output demonstrates the sparse array functionality:
 
-![Test Output](test_output.png)
+![Test Output](Sparse_Array.png)
 
 The test demonstrates:
 1. Creating a sparse array with scattered non-zero values
