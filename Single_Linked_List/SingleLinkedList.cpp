@@ -683,7 +683,7 @@ bool LinkedList::is_same1(const LinkedList& another)
 }
 bool LinkedList::is_same2(const LinkedList& another)
 { // time o(n) - memory o(1)
-    // without using lenght
+    // without using length
     Node* t1 = head;
     Node* t2 = another.head;
 
